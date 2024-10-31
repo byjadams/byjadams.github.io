@@ -21,7 +21,7 @@ You should put a memorable app name when generating an app password. In this ins
 # Configure Send mail as
 Name: Your name
 Email: *The email you want to use*
-Uncheck *Treat as an alias.*
+Uncheck *Treat as an alias*, see [Treat as alias help](https://support.google.com/a/answer/1710338?ctx=gmail&hl=en&authuser=0&visit_id=01730403767809-5996834099631750031&rd=1)
 Click *Next Step*
 SMTP Server: smtp.gmail.com
 Port: 587
