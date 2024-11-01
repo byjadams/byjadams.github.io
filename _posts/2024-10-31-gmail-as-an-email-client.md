@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gmail as an email client
+title: "Gmail as an email client"
 ---
 
 
