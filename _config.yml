@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com"
-    - Gmail as an email client: "_posts/2024-10-31-gmail-as-an-email-client.md"
+    - Gmail as an email client: "/_posts/2024-10-31-gmail-as-an-email-client.md"
 
 ################
 # --- Logo --- #
