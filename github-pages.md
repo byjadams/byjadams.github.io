@@ -30,7 +30,7 @@ You need to generate a personal access token to be used instead of your password
 # Hello World
 Create a new file _index.html_:
 ```bash
-$ echo "Hello World" > index.html
+echo "Hello World" > index.html
 ```
 
 Add the index.html file to be staged then commit it and push it up to GitHub.
