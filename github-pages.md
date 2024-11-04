@@ -25,7 +25,7 @@ git config --global user.email "_username@example.com_"
 ```
 
 # Setup GitHub
-Since "[support] for password authentication was removed on August 13, 2021", GitHub provides documenation for [Clonging with HTTPS URLs](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls).
+Since "[support] for password authentication was removed on August 13, 2021", GitHub provides documenation for [Cloning with HTTPS URLs](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls).
 
 You need to generate a personal access token to be used instead of your password.  This is similar to [Google app passwords](https://support.google.com/accounts/answer/185833?hl=en). Another option is to use the Git Credenital Manager (GCM) or similar credential helper. Ideally switch from using HTTP to SSH if you and your organization allow it. Using SSH is standard for developers, comes preinstalled on Mac and Linux systems, and comes with a mature credential helper.
 
