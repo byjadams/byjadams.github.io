@@ -9,10 +9,9 @@ In April 2008 GitHub was co-founded by Tom Preston-Werner. By November 2008, he 
 Begin by creating a public repository named _username_.github._io_. Two things to note: first, that you must use your username as you would log into GitHub; second, that the URL is `.io` instead of `.com`.
 
 # Clone the repository
-Go to the folder where you want to store your project, and clone the repository:
+Go to the folder where you want to store your project and clone the repository:
 ```bash
 git clone https://github.com/username/username.github.io
-cd _username_.github.io
 ```
 
 When cloning an empty repository, GitHub defaults to a remote repo named origin and a branch named main. This is an alternative to initializing a folder on your local machine using `git init -b main` then adding a remote `git remote add origin _https://github.com/username/username.github.io.git_`.
@@ -30,8 +29,9 @@ Since "[support] for password authentication was removed on August 13, 2021", Gi
 You need to generate a personal access token to be used instead of your password.  This is similar to [Google app passwords](https://support.google.com/accounts/answer/185833?hl=en). Another option is to use the Git Credenital Manager (GCM) or similar credential helper. Ideally switch from using HTTP to SSH if you and your organization allow it. Using SSH is standard for developers, comes preinstalled on Mac and Linux systems, and comes with a mature credential helper.
 
 # Hello World
-Create a new file _index.html_:
+Navigate to the repository and create a new file _index.html_:
 ```bash
+cd _username_.github.io
 echo "Hello World" > index.html
 ```
 
