@@ -3,7 +3,7 @@ title: GitHub Pages
 layout: page
 ---
 
-In April 2008 GitHub was co-founded by Tom Preston-Werner. By November 2008, he had the idea of [Blogging Like a Hacker](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) and so created [Jekyll](https://jekyllrb.com/), a static site generator. From there a deeper integration allowed you to have a website that automatically updates with your GitHub repository, GitHub Pages](https://pages.github.com/).
+In April 2008 GitHub was co-founded by Tom Preston-Werner. By November 2008, he had the idea of [Blogging Like a Hacker](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) and so created [Jekyll](https://jekyllrb.com/), a static site generator. From there a deeper integration allowed you to have a website that automatically updates with your GitHub repository, [GitHub Pages](https://pages.github.com/).
 
 # Create the repository
 Begin by creating a public repository named _username_.github._io_. Two things to note: first, that you must use your username as you would log into GitHub; second, that the URL is `.io` instead of `.com`.
