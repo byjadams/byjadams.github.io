@@ -2,6 +2,8 @@
 layout: page
 ---
 
+I'm a technical writer with a background in real estate, finance, and information systems. I'm open to opportunities that allow me to help businesses care for internal and external stakeholders so they feel supported and confident in using your solutions.
+
 # EDUCATION
 Fowler College of Business, San Diego State University
 Bachelor of Science, Finance *Summer 2020*
